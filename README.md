@@ -1,4 +1,4 @@
-- 👋 <h1> Hi, I’m @MayMetwalli </h1>
+ <h1> Hi, I’m May Metwalli </h1> 👋
 - 👀 I’m interested in art and music but also learning more about the world of tech and data.
 - 🌱 I’m currently learning Data Analysis.
 - 💞️ I’m looking to collaborate on case studies or projects to practice my analytical skills.
